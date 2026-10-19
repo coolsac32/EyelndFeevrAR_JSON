@@ -1,14 +1,14 @@
 {
     "android": {
         "disabled": false,
-        "version": "0.1.5",
+        "version": "6.0.0",
         "minimumVersion": "0.1.1",
         "versionDate": "2026-10-18",
         "storeUrl": "https://play.google.com/store/apps/details?id=com.IltopiaStudios.EyelndFeevr2024"
     },
     "ios": {
         "disabled": false,
-        "version": "0.1.5",
+        "version": "6.0.0",
         "minimumVersion": "0.1.1",
         "versionDate": "2026-10-18",
         "storeUrl": "https://apps.apple.com/gh/app/eyelnd-feevr/id1496895598"
@@ -16,6 +16,6 @@
     "enableAddressablesUpdates": true,
     "androidAddressablesVersion": "1.0.0",
     "iosAddressablesVersion": "1.0.0",
-    "androidAddressablesVersionDate": "1.0.0",
-    "iosAddressablesVersionDate": ""
+    "androidAddressablesVersionDate": "2026-10-18",
+    "iosAddressablesVersionDate": "2026-10-18"
 }
