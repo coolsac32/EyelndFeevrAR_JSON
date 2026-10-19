@@ -1,0 +1,12 @@
+{
+    "android": {
+        "disabled": false,
+        "version": "0.1.0",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.IltopiaStudios.EyelndFeevr2024"
+    },
+    "ios": {
+        "disabled": false,
+        "version": "0.1.5",
+        "storeUrl": "https://apps.apple.com/gh/app/eyelnd-feevr/id1496895598"
+    }
+}
